@@ -33,6 +33,23 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/garden/ExperienceStatus.tsx",
+    "src/garden/Garden.tsx",
+    "src/garden/Hud.tsx",
+    "src/garden/config.ts",
+    "src/garden/critters.ts",
+    "src/garden/draw.ts",
+    "src/garden/engine.test.ts",
+    "src/garden/engine.ts",
+    "src/garden/hands.test.ts",
+    "src/garden/hands.ts",
+    "src/garden/plant.test.ts",
+    "src/garden/plant.ts",
+    "src/garden/sound.ts",
+    "src/garden/state.ts",
+    "src/garden/wind.ts",
+    "src/DevGarden.tsx",
+    "src/DevMediaSwitcher.tsx"
   ]
 }

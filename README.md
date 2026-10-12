@@ -1,3 +1,22 @@
+# Grow Your Garden
+
+Pinch your thumb and index finger in the air and a plant sprouts from the ground below, its stem
+winding up along a natural, bowing path to the point between your fingers — then a flower blooms
+there. The flower is random every time (daisy, tulip, sunflower, blossom or rose, in random
+colours), and you can grow as many as you like with either hand. Swipe an open palm sideways and a
+gust rolls out from your hand across the garden, bending the plants and blowing the butterflies and
+bees off course (they arrive as flowers bloom and hop between them). The floating button at the
+bottom right clears the garden: flowers close and every stem pulls back into the ground. Flat,
+illustrated style over the live camera. Tap the speaker for sound.
+
+- Dev preview without a camera: the media switcher (☰) starts on the SDK's "Person ThumbUp"
+  video. Samples don't pinch, so a dev-only mouse driver stands in for a hand: click to plant,
+  ← / → for a gust (shift: stronger), R to clear. An optional local clip goes at
+  `dev-media/hands.mp4` (see `dev-media/README.md`).
+- Tuning: `src/garden/config.ts`. How it works: `PLAN.md`.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
